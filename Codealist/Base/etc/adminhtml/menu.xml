@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Codealist, codealist.net
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Codealist_Base::codealist" title="Codealist" translate="title" module="Codealist_Base" sortOrder="40" resource="Codealist_Base::codealist"/>
+    </menu>
+</config>
