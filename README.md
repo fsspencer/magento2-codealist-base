@@ -6,4 +6,3 @@ Core extension for most part of the extensions created by Codealist.net.
 2. Place it inside app/code/Codealist/Base
 3. Run php bin/magento setup:upgrade
 
-That's it!
